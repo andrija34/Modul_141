@@ -1,4 +1,4 @@
-# M141 – DB-Systeme in Betrieb nehmen
+# Tag - 1
 
 ## Vergleich: MariaDB vs MySQL vs PostgreSQL
 
