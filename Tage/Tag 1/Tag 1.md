@@ -20,3 +20,25 @@
 | Graph DB | Speichert Knoten und Beziehungen | Neo4j | Sehr gut für Beziehungen | Spezialisiert, nicht für alles geeignet | Social Networks, Empfehlungen, Netzwerke |
 | Time Series DB | Speichert zeitbasierte Messdaten | InfluxDB | Gut für viele Messwerte über Zeit | Spezialgebiet | Monitoring, Sensoren, Metriken |
 | Spatial DB | Speichert geografische Daten | PostGIS | Gut für Karten und Standorte | Braucht GIS-Wissen | Karten, Navigation, Standortdaten |
+
+
+
+## Screenshots
+
+### XAMPP Control Panel
+![XAMPP läuft](image.png)
+
+### SHOW DATABASES
+![](<Screenshot 2026-05-19 141303.png>)
+
+### MySQL Status
+![alt text](<Screenshot 2026-05-19 141317.png>)
+
+### phpMyAdmin
+![alt text](<Screenshot 2026-05-19 141904.png>)
+
+### neuer User erstellen
+![alt text](<Screenshot 2026-05-19 141558.png>)
+
+### neuer User Login
+![alt text](<Screenshot 2026-05-19 141550.png>)
